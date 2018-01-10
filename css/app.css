@@ -1,0 +1,134 @@
+body {
+  background-color: #faf3dd;
+  color: #5d0000;
+}
+
+.callout {
+  background-color: peru;
+
+}
+
+.menu-text {
+  /*font-family: 'PT Sans Caption', sans-serif;*/
+  font-family: 'Noto Serif', serif;
+}
+
+.menu, .texto {
+  font-family: 'PT Sans Caption', sans-serif;
+  color: #441013;
+  /*color: #FAEBD7;*/
+}
+
+.texto {
+  font-family: 'PT Sans Caption', sans-serif;
+  color: #5d0000;
+}
+
+
+.menu-principal {
+  font-size: 0.9em;
+}
+
+#mensaje-inicial {
+  font-size: 1.4em;
+} 
+
+.divorcio-wrapper {
+  vertical-align: middle;
+}
+
+.text-divorcio {
+  font-size: 1.7em;
+  font-family: 'Passion One', cursive;
+  text-shadow: 3px 3px #999;
+}
+
+.imagen-inicio {
+  height: 200px;
+  width: 100%;
+}
+
+.footer-sebastian {
+  font-size: 0.8em;
+}
+
+#yazmin-banner {
+  background-color: #ffffff;
+  margin-top:25px;
+  margin-bottom:30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  -webkit-box-shadow: 0px -2px 26px -1px rgba(0,0,0,0.6);
+  -moz-box-shadow: 0px -2px 26px -1px rgba(0,0,0,0.6);
+  box-shadow: 0px -2px 26px -1px rgba(0,0,0,0.6);
+}
+
+#yazmin-banner:hover{
+  background-color: #ffb45b;
+}
+.yazmin-aiyelef-abogada{
+  font-family:helvetica-w01-light,helvetica-w02-light,sans-serif;
+  font-size: 1.3em;
+}
+
+.texto-yazmin-banner{
+  font-family:helvetica-w01-light,helvetica-w02-light,sans-serif;
+  color: #b9122b;
+  font-size: 1.15em;
+}
+
+.texto-main a{
+  font-size: 2em;
+  font-weight: bold;
+  color: #1b58a2;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 1);
+}
+.texto-main a:hover{
+  color: #258faf;
+}
+#main{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.banner-divorcio{
+  margin-top: 20px;
+}
+
+.asuntos-mediacion{
+  margin-top: 30px;
+}
+
+.fuente{
+  font-size: 0.7em;
+}
+
+.valores{
+  margin-top: 20px;
+}
+
+.llamado-accion{
+  background-color: #ffeeba;
+}
+
+.llamado-accion div{
+  margin: 40px 10px 40px 10px;
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-bar, .top-bar ul{
+  background-color: #faf3dd;
+}
+
+.menu-text {
+  font-size: 1.2em;
+}
+
+.top-bar-right {
+  margin-top: 10px;
+}
+
+.materias li, .horario{
+  line-height: 230%;
+}
